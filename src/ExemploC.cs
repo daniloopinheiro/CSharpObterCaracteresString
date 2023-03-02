@@ -2,13 +2,15 @@ namespace CSharpObterCaracteresString.src
 {
     class ExemploC
     {
-        private string alfabetoC;
-
-        public string AlfabetoC {get; private set;}
+        public static string AlfabetoC;
         
-        private void ExemploC()
+        private ExemploC()
         {
-            alfabetoC = AlfabetoC;
+        }
+
+        public ExemploC(string alfabetoC)
+        {
+            alfabetoC = alfabetoC;
         }
     }
 }

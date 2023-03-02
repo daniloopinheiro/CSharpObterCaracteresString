@@ -24,8 +24,9 @@ namespace CSharpObterCaracteresString
 
             Console.WriteLine("********** Obter Caracteres String - Exemplo C **********");
             
-            
-            Console.WriteLine();
+            var caractereC = ExemploC.AlfabetoC = "ABCDEFGHIJ";
+
+            Console.WriteLine(caractereC.Substring(0, 5));
             Console.WriteLine();
         }
     }
