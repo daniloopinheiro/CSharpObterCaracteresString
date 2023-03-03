@@ -1,6 +1,7 @@
 # CSharp Como Obter Caracteres de String Especifico
 
 Aqui nesse projeto criado em template via console
+
 Baseado em três exemplos simples que dará uma idéia.
 
 ## Objetivo
